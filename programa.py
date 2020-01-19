@@ -9,3 +9,4 @@ print ('')
 print(texto2)
 print ('')
 print (str(3))
+c=1
