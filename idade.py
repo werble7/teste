@@ -29,3 +29,5 @@ if y != None:
 	if y=="não" or y=="nao":
 		print("Luciano Huck para presidente")
 
+
+
