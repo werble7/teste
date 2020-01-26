@@ -30,4 +30,3 @@ if y != None:
 		print("Luciano Huck para presidente")
 
 
-
